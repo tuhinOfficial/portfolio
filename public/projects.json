@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "projectName": "Toy Store",
+    "title": "E-Commerce Website",
+    "image": "https://i.ibb.co/QXSbN8b/homepage.jpg",
+    "images": [],
+    "features": [
+      "Dynamic Data Handle",
+      "Firebase Integration system",
+      "Node And Express Use For Backend"
+    ],
+    "technologies": "HTML5 || CSS || Tailwind || DaisyUi || JavaScript || React React Router || Node || Express || Firebase"
+  },
+  {
+    "id": 1,
+    "projectName": "Toy Store",
+    "title": "E-Commerce Website",
+    "image": "https://i.ibb.co/QXSbN8b/homepage.jpg",
+    "images": [
+      "https://i.ibb.co/2SGG7zz/Screenshot-2023-06-27-202915.png",
+      "https://i.ibb.co/sgb01nR/Screenshot-2023-06-27-203051.png",
+      "https://i.ibb.co/Mccm1Bn/Screenshot-2023-06-27-203124.png",
+      "https://i.ibb.co/zZWvvvq/Screenshot-2023-06-27-203159.png"
+    ],
+    "features": [
+      "Dynamic Data Handle",
+      "Firebase Integration system",
+      "Node And Express Use For Backend"
+    ],
+    "technologies": "HTML5 || CSS || Tailwind || DaisyUi || JavaScript || React React Router || Node || Express || Firebase"
+  }
+]
